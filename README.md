@@ -1,5 +1,5 @@
 - 👋 Salut, Moi c'est @ThePurpleBrain
 - 👀 J'ai des intérets dans la robotique, les sciences, la programmation, l'ingénierie, la musique et d'autre trucs comme ça.
-- 🌱 J'apprend par moi-même avec Youtube et Brilliant, et je suis débutante/intermédiaire en programmation sur Python et Arduino.
+- 🌱 J'apprend par moi-même avec Youtube et Brilliant, et je suis débutante/intermédiaire en programmation sur Python et Arduino/ESP.
 - 💞️ Je travail seule, mais j'aimerais commencer à travailler avec d'autres gens.
 - 📫 Vous pouvez me contacter via mon Instagram : @furrygoalie
